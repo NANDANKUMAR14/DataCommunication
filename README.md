@@ -2,15 +2,6 @@
 
 Study materials for the **Data Communication** course offered by the Department of Computer Science and Engineering.
 
-## Course Information
-
-| Field | Details |
-|---|---|
-| **Course Code** | 24CS430 |
-| **Credits (L:T:P)** | 4:0:0 |
-| **Type** | Core — Lecture |
-| **Total Contact Hours** | 60 |
-
 ## Syllabus Overview
 
 ### Unit 1 — Introduction (7 hrs)
